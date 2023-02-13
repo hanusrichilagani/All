@@ -4,3 +4,5 @@ RAM : 8gb
 
 ROM : 128gb
 Version : 13.0
+
+version : 14.0
