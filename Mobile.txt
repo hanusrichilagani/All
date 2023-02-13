@@ -1,0 +1,4 @@
+name : realme
+ram : 8gb
+version : 8.0
+
